@@ -4506,3 +4506,9 @@ code.inline {
   margin-bottom: 16px;
   border-bottom: none;
 }
+.visual-refresh .container__2637a {
+    background: var(--bg-overlay), var(--background-base-lowest);
+    margin-left: -1px;
+    padding-bottom: 0 !important;
+}
+
