@@ -4507,3 +4507,7 @@ code.inline {
   margin-bottom: 16px;
   border-bottom: none;
 }
+.visual-refresh .sidebar_c48ade:after {
+    display: none !important;
+    content: none !important;
+}
